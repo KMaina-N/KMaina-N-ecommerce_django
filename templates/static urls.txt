@@ -1,0 +1,4 @@
+<link href="{% static 'css/bulma-rtl.css' %}" rel="stylesheet" />
+<link href="{% static 'css/bulma-rtl.min.css' %}" rel="stylesheet" />
+<link href="{% static 'css/bulma.css' %}" rel="stylesheet" />
+<link href="{% static 'css/bulma.min.css' %}" rel="stylesheet" />
